@@ -83,8 +83,6 @@ docker rm -f <nombre contenedor>
 ```
 Eliminar el contenedor **srv-web3** 
 # COMPLETAR
-<img width="449" height="85" alt="image" src="https://github.com/user-attachments/assets/28e4b259-0acb-44d0-b913-3c3a011f5cf3" />
-
 
 Verificar que el contenedor que se eliminó
 # COMPLETAR
