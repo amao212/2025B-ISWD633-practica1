@@ -39,6 +39,8 @@ docker images
 
 # COLOCAR UNA CAPTURA DE PANTALLA DEL RESULTADO 
 
+<img width="815" height="114" alt="image" src="https://github.com/user-attachments/assets/4a7ec6a5-e49c-4d47-8606-97a3780cede1" />
+
 **Identificadores**
 
 En Docker, se utilizan varios identificadores para diferenciar de manera única los elementos del sistema, como imágenes, contenedores, volúmenes y redes. Estos identificadores son generados automáticamente por Docker y son únicos dentro del contexto del sistema Docker en el que se encuentran. 
