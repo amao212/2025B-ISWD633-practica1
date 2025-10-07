@@ -17,6 +17,7 @@ Descargar la imagen **hello-world**
 # COMPLETAR
 
 **¿Qué es nginx?**
+
 Nginx es un servidor web de alto rendimiento y código abierto que también puede funcionar como:
 Servidor proxy inverso,
 Balanceador de carga,
