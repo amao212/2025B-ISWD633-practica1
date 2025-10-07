@@ -16,7 +16,15 @@ docker pull <nombre imagen>:<tag>
 Descargar la imagen **hello-world**
 # COMPLETAR
 
-**¿Qué es nginx**
+**¿Qué es nginx?**
+Nginx es un servidor web de alto rendimiento y código abierto que también puede funcionar como:
+Servidor proxy inverso,
+Balanceador de carga,
+Proxy de correo (IMAP/POP3),
+y servidor de contenido estático (como imágenes, CSS, JavaScript, etc.).
+
+Nginx se encarga de recibir las solicitudes HTTP de los usuarios (por ejemplo, cuando visitas una página web) y responderlas de manera rápida y eficiente.
+Es muy usado en sitios con alto tráfico porque puede manejar miles de conexiones simultáneas consumiendo pocos recursos.
 # COMPLETAR 
 
 Descargar la imagen  **nginx** en la versión **alpine**
