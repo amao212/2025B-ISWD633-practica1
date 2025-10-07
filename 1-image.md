@@ -56,7 +56,10 @@ docker inspect <nombre imagen>:<tag>
 Inspeccionar la imagen hello-world 
 # COMPLETAR
 
-**¿Con qué algoritmo se está generando el ID de la imagen**
+**¿Con qué algoritmo se está generando el ID de la imagen?**
+
+sha254
+
 # COMPLETAR
 
 ### Filtrar imágenes
