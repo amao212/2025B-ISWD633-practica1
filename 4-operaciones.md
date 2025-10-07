@@ -17,6 +17,9 @@ El argumento -l  se usa para mostrar una lista detallada de los archivos y direc
 # COMPLETAR
 # COLOCAR UNA CAPTURA DE PANTALLA
 
+<img width="695" height="572" alt="image" src="https://github.com/user-attachments/assets/540d9d12-37ae-4850-a451-2af550f203bb" />
+
+
 ### Para ejecutar un shell interactivo en un contenedor de Docker especificado.
 El comando **docker exec** te permite acceder a la sesión shell de un contenedor en ejecución, estarás dentro del contenedor y podrás ejecutar comandos como si estuvieras en una terminal normal. 
 Para saber qué comando utilizar para abrir una terminal dentro de un contenedor, es útil conocer la imagen base del contenedor, ya que diferentes imágenes pueden usar diferentes shells o comandos para abrir una terminal. Puedes verificar la documentación de la imagen del contenedor en Docker Hub o en el repositorio de la imagen para obtener información específica sobre cómo abrir una terminal en esa imagen.
