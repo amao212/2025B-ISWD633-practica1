@@ -6,7 +6,13 @@ docker exec <nombre contenedor> <comando> <argumentos opcionales>
 ```
 # COMPLETAR
 ### ¿Para qué se usa el comando ls?
+
+El comando ls se utiliza para listar los archivos y directorios dentro de un directorio
+
 ### ¿Para qué sirve el argumento -l junto al comando ls?
+
+El argumento -l  se usa para mostrar una lista detallada de los archivos y directorios.
+
 ### Usar el contenedor de jenkins creado previamente y ejecutar el comando ls con el argumento -l
 # COMPLETAR
 # COLOCAR UNA CAPTURA DE PANTALLA
