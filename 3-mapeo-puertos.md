@@ -47,6 +47,9 @@ No puedes mapear puertos a un contenedor existente directamente después de su c
 
 # COLOCAR UNA CAPTURA DE PANTALLA  DEL ACCESO http://localhost:8080
 
+<img width="1407" height="357" alt="image" src="https://github.com/user-attachments/assets/b557a1a4-86b2-475c-9d28-8ff5369d5ca8" />
+
+
 ### ¿Cómo obtener la contraseña solicitada?
 Para obtener la contraseña solicitada es necesario ingresar al contenedor.
 
